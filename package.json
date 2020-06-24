@@ -1,0 +1,17 @@
+{
+  "name": "mydiscordql",
+  "version": "1.0.0",
+  "description": "A module to use a discord guild as a database",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Mysql",
+    "sql",
+    "discord",
+    "mariadb"
+  ],
+  "author": "HiiZun",
+  "license": "ISC"
+}
